@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/filesharing_socket.io/static/css/main.073c9b0a.css",
+    "main.js": "/filesharing_socket.io/static/js/main.ebe1d2bc.js",
+    "static/js/787.807f6d6c.chunk.js": "/filesharing_socket.io/static/js/787.807f6d6c.chunk.js",
+    "static/media/logo.svg": "/filesharing_socket.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/filesharing_socket.io/index.html",
+    "main.073c9b0a.css.map": "/filesharing_socket.io/static/css/main.073c9b0a.css.map",
+    "main.ebe1d2bc.js.map": "/filesharing_socket.io/static/js/main.ebe1d2bc.js.map",
+    "787.807f6d6c.chunk.js.map": "/filesharing_socket.io/static/js/787.807f6d6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ebe1d2bc.js"
+  ]
+}
