@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/socket.io_file_sharing_frontend/static/css/main.29d519d4.css",
-    "main.js": "/socket.io_file_sharing_frontend/static/js/main.a8d0dbd4.js",
+    "main.js": "/socket.io_file_sharing_frontend/static/js/main.a4ccb577.js",
     "static/js/787.807f6d6c.chunk.js": "/socket.io_file_sharing_frontend/static/js/787.807f6d6c.chunk.js",
     "index.html": "/socket.io_file_sharing_frontend/index.html",
     "main.29d519d4.css.map": "/socket.io_file_sharing_frontend/static/css/main.29d519d4.css.map",
-    "main.a8d0dbd4.js.map": "/socket.io_file_sharing_frontend/static/js/main.a8d0dbd4.js.map",
+    "main.a4ccb577.js.map": "/socket.io_file_sharing_frontend/static/js/main.a4ccb577.js.map",
     "787.807f6d6c.chunk.js.map": "/socket.io_file_sharing_frontend/static/js/787.807f6d6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29d519d4.css",
-    "static/js/main.a8d0dbd4.js"
+    "static/js/main.a4ccb577.js"
   ]
 }
